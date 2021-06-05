@@ -1,0 +1,9 @@
+.top {
+    background-color: rgb(178, 233, 233);
+}
+
+.topper {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
